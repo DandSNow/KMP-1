@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Нобелевская премия</string>
+    <string name="laureates_list_title">Лауреаты</string>
+    <string name="back">Назад</string>
+    <string name="birth_date_label">Дата рождения</string>
+    <string name="birth_place_label">Место рождения</string>
+    <string name="gender_label">Пол</string>
+    <string name="prizes_title">Премии</string>
+    <string name="laureate_not_found">Лауреат не найден</string>
+    <string name="switch_theme">Сменить тему</string>
+</resources>
